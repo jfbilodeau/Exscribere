@@ -1,0 +1,13 @@
+{
+  "name": "exscribere",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server www"
+  },
+  "author": "J-F Bilodeau (jbilodeau@microsoft.com)",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+  }
+}
